@@ -88,7 +88,6 @@
                     ?> <p class="flex justify-center font-mono p-2 text-green-700">Olá, nossa clínica preza
                         muito pelos clientes, então pelo o que analisamos, recomendamos o uso da Lente Padrão
                     </p>
-                    <p class="flex justify-center font-mono p-2 text-green-700">Além de suprir suas necessidades, ela traz um conforto incomparável!</p>
                     <a href="" class="flex justify-center font-mono p-2 text-green-400 underline">Clique aqui para efetuar a compra!</a>     <?php
                 }
             //Lente Vision
