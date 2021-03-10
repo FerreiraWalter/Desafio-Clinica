@@ -94,8 +94,7 @@
             //Lente Vision
             } else {
         ?>    <p class="flex justify-center font-mono p-2 text-green-700">Olá, a Lente Prime está em falta no
-                    momento, mas não abaixe a cabeça, a Lente Vision consegue suprir suas necessidades,
-                    Clique aqui para efetuar a compra</p>
+                    momento, mas não abaixe a cabeça, a Lente Vision consegue suprir suas necessidades</p>
                 <a href="" class="flex justify-center font-mono p-2 text-green-400 underline">Clique aqui
                     para efetuar a
                     compra!</a>
